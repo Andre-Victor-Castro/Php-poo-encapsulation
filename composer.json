@@ -1,0 +1,15 @@
+{
+    "name": "andrevictor/php-poo-encapsulation",
+    "autoload": {
+        "psr-4": {
+            "Andrevictor\\PhpPooEncapsulation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "André Victor Soares Castro",
+            "email": "castro.victor@aluno.ifsp.edu.br"
+        }
+    ],
+    "require": {}
+}
